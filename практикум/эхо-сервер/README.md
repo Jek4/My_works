@@ -17,8 +17,7 @@
 
 7 пункт. Сервер идентификации. Запросили у пользователя имя
 
-  ![image](https://user-images.githubusercontent.com/51966929/138692556-241794db-f5e0-4a2f-ab80-d926739ff204.png)
-![image](https://user-images.githubusercontent.com/51966929/138692562-58aa5843-d248-421d-b7d8-a4d9d869cf37.png)
+
 
 записали имя в clients.txt при повторном подключении сервер поприветствовал пользователя
 Пункты с 8 по 10 реализованы в файлах client.py и server.py
