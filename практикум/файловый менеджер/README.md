@@ -34,3 +34,29 @@
  ![image](https://user-images.githubusercontent.com/51966929/138681267-3aaaf6c9-7d23-46e7-ae63-460118222874.png)
 ![image](https://user-images.githubusercontent.com/51966929/138681275-8fa7ef7a-463b-4d10-b395-5d9dc4d41a0a.png)
 
+Ввод команды 9 копирует файл
+ 
+ ![image](https://user-images.githubusercontent.com/51966929/138681292-cd337d6d-e579-45ad-a66f-bf0a0e2ed564.png)
+![image](https://user-images.githubusercontent.com/51966929/138681305-5ed70cb8-0222-4914-bafe-325590f64e54.png)
+
+Ввод команды 10 переместит файл
+
+ ![image](https://user-images.githubusercontent.com/51966929/138681315-74a5816f-208e-487b-9837-2bb4bb63f5c5.png)
+![image](https://user-images.githubusercontent.com/51966929/138681324-33ef1291-c417-4112-89a4-98ecca61203b.png)
+
+ 
+Ввод команды 11 переименует файл
+
+ ![image](https://user-images.githubusercontent.com/51966929/138681337-802f4dbd-079b-4a27-96c7-403477fa307f.png)
+![image](https://user-images.githubusercontent.com/51966929/138681342-a90bc0f9-4177-4305-a018-2339f8a53893.png)
+
+ 
+Ввод команды 12 покажет справку
+ 
+ ![image](https://user-images.githubusercontent.com/51966929/138681349-8019ce97-149b-40d4-aa45-29387b047a98.png)
+![image](https://user-images.githubusercontent.com/51966929/138681357-d3ccafab-ab59-4006-9db4-5f5cbc188388.png)
+
+Ввод команды exit закроет программу
+ 
+![image](https://user-images.githubusercontent.com/51966929/138681421-864bbffc-0d17-4f65-b9a7-c76d932ae084.png)
+
