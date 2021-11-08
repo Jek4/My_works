@@ -1,6 +1,5 @@
 Пункты с 1 по 7 реализованы в файлах client.py и server.py 2 пункт. Клиент вводит exit и разрывает соединение
  
- ![image](https://user-images.githubusercontent.com/51966929/138692485-53e47841-6666-4ebe-95ca-a9913eab1f5c.png)
 
 пункт 4. Ввод IP адреса и порта. Безопасный ввод - модуль getpass, значения по умолчанию установлены.
 ![image](https://user-images.githubusercontent.com/51966929/138692496-6b6cbf89-8ebd-45a2-a341-234f14c2cf18.png)
