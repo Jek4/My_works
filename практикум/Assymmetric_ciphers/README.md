@@ -26,7 +26,8 @@
 
 
 
-![Снимок экрана 2021-12-15 в 15 12 14](https://user-images.githubusercontent.com/90418243/146458149-14c2bebe-3e3f-4a14-ab87-a780b94b287f.png)
+![Снимок экрана 2021-12-17 в 1 25 32](https://user-images.githubusercontent.com/90418243/146464433-c651f856-8374-417f-9664-8ccd1f3686c8.png)
+
 
 
 
