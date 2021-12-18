@@ -1,0 +1,19 @@
+<script type="text/javascript">
+function User(name, age) {
+
+this.name = name;
+this.age = age;
+
+this.sayHi = function() {
+alert( "Меня зовут: " + this.name );
+};
+this.sayage = function() {
+alert( "Мне: " + this.age);
+};
+
+}
+
+let jeka = new User("Женя", 19);
+jeka.sayHi(); 
+jeka.sayage();
+</script>
