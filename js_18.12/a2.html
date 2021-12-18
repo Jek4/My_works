@@ -1,0 +1,41 @@
+<meta charset="UTF-8">
+<script>
+    let mas = [];
+    var a1 = -10;
+    var a2 = 10;
+    var n = prompt('Введите n: ');      //задаем массив из рандомных чисел
+    for (var i = 0; i < n; i++) {
+        let b = Math.floor(Math.random() * (a2 - a1 + 1) ) + a1;
+        mas.push(b);
+    }
+
+    alert(mas);
+
+    var k_otr = 0;
+    var k_pol = 0;       //задаем переменные для сумм и количеств
+    var S_pol = 0;
+	var S_otr = 0;
+    var o = 0;
+
+    for (let i = 0; i < n; i = i++) {
+        let b = mas[i]
+        if (b > 0) {
+           k_pol =  k_pol + 1;
+           S_pol += b;                         //условия для переменных
+        } else if (b < 0) {
+			mas[i] = b * b;
+            k_otr = k_otr + 1;
+            S_otr += b;  
+        } else {
+            o = o + 1;
+        }
+    }
+	
+	var sr_pol = S_pol/k_pol;                   //подсчет средних арифметических
+	var sr_otr = S_otr/k_otr;
+
+    alert(mas);
+    alert('Среднее арифметическое положительных чисел -  ' + sr_pol);         //вывод
+    alert('Среднее арифметическое отрицательных чисел -  ' + sr_otr);
+    alert('Количество нулей -  ' + o);
+</script>
