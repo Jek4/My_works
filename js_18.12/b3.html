@@ -1,0 +1,43 @@
+<meta charset="UTF-8">
+<script>
+let information = {
+name: "Jeka",
+age: "14",
+city: "Moscow",
+phone: "88005553535",
+adress: "Stepana Razina",
+bank: "Sber",
+sex: "alternative"
+};
+
+let zakaz = {
+name_bludo: "Колбаски, гренки и пиво",
+t: 10,
+
+};
+let rest = {
+name: "Savva",
+type: "Бар",
+city: "Москва",
+street:"Лухмановская",
+mail: "Savva@gmail.com",
+site: "https://www.novikovgroup.ru/restaurants/detail/savva/",
+};
+
+
+zakaz.orginize = function(){
+ if (this.t == 10){
+	if (information.age > 18) {
+	alert(information.name + ' ' + information.age + ' заказан ' + rest.name);
+	} else {
+		alert("пивo нельзя до 18");
+	}
+ }
+ else if (this.t < 10) {
+	alert("Никто не заказал");
+ } else {
+ alert("Осечка");
+ }
+};
+zakaz.orginize();
+</script>
